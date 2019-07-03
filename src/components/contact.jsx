@@ -58,7 +58,7 @@ class Contact extends Component {
         <div className="text-center" style={{ width: "100%" }} id="contact">
           <h4
             style={{
-              color: "rgb(179, 214, 223)",
+              color: "rgb(179, 214, 223)"
             }}
           >
             Contact
